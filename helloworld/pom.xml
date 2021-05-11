@@ -14,7 +14,7 @@
 	<name>helloworld</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<start-class>com.rh.helloworld.helloworld.HelloworldApplication</start-class>
 	</properties>
 	<dependencies>
